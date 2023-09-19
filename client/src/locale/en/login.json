@@ -1,0 +1,13 @@
+{
+  "email_lg": "Email",
+  "password_lg": "Password",
+  "log_in_lg": "Log in",
+  "or_lg": "Or",
+  "login_fb_lg": "Log in with Facebook",
+  "forgot_lg": "Forgot password",
+  "account_lg": "Don't have an account",
+  "sign_up_lg": "Sign up",
+  "get_app_lg": "Get the app",
+  "user_correct_lg": "Email or Password is not correct",
+  "user_success_lg": "Login successfully"
+}

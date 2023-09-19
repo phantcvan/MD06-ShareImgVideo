@@ -1,0 +1,16 @@
+{
+    "create_p": "Tạo bài viết mới",
+    "select_p": "Chọn ảnh từ máy tính",
+    "back_p": "Quay lại",
+    "share_p": "Chia sẻ",
+    "write_p": "Viết chú thích",
+    "location_p": "Thêm vị trí",
+    "access_p": "Trợ năng",
+    "setting_p": "Cài đặt nâng cao",
+    "cancel_p": "Hủy",
+    "edit_p": "Chỉnh sửa bài viết",
+    "done_p": "Xong",
+    "err_p": "Nội dung không được để trống",
+    "success_p": "Đăng bài thành công",
+    "file_p": "Hãy chọn ảnh có định dạng PNG, JPG, JPEG hoặc BMP."
+}

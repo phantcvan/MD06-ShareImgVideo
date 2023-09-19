@@ -1,0 +1,14 @@
+/* .ant-modal-content {
+    height: 400px;
+} */
+
+.ant-modal-title {
+    text-align: center;
+}
+.input input{
+    width: 370px;
+    padding: 8px;
+    border-radius: 8px;
+    background-color: rgb(239,239,239);
+    outline: none;
+}

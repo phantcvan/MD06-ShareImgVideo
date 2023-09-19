@@ -1,0 +1,13 @@
+{
+  "email_lg": "Email",
+  "password_lg": "Mật khẩu",
+  "log_in_lg": "Đăng nhập",
+  "or_lg": "Hoặc",
+  "login_fb_lg": "Đăng nhập bằng Facebook",
+  "forgot_lg": "Quên mật khẩu",
+  "account_lg": "Bạn chưa có tài khoản",
+  "sign_up_lg": "Đăng ký",
+  "get_app_lg": "Tải ứng dụng",
+  "user_correct_lg": "Email hoặc mật khẩu không chính xác",
+  "user_success_lg": "Đăng nhập thành công"
+}

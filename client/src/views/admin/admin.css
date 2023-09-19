@@ -1,0 +1,19 @@
+:where(.css-dev-only-do-not-override-1w4v3hc).ant-btn-primary {
+  background-color: DeepSkyBlue;
+}
+.ad-title {
+  border-radius: 0.375rem;
+  padding: 10px 30px;
+  -webkit-box-shadow: 0 1px 2px rgb(0 0 0 / 10%);
+  box-shadow: 0 2px 2px rgb(0 0 0 / 10%);
+  border-left: 6px solid #ffd43b;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ad-content {
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}

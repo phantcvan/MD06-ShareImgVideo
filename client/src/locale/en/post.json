@@ -1,0 +1,16 @@
+{
+    "create_p": "Create new post",
+    "select_p": "Select from computer",
+    "back_p": "Back",
+    "share_p": "Share",
+    "write_p": "Write a caption",
+    "location_p": "Add location",
+    "access_p": "Accessibility",
+    "setting_p": "Advanced settings",
+    "cancel_p": "Cancel",
+    "edit_p": "Chỉnh sửa bài viết",
+    "done_p": "Done",
+    "err_p": "Content cannot be empty",
+    "success_p": "Posted successfully",
+    "file_p": "Please select a image in PNG, JPG, JPEG, BMP or MP4 format."
+}
